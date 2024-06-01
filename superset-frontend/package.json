@@ -314,7 +314,7 @@
     "fork-ts-checker-webpack-plugin": "^6.5.3",
     "history": "^4.10.1",
     "ignore-styles": "^5.0.1",
-    "imports-loader": "^3.1.1",
+    "imports-loader": "^5.0.0",
     "jest": "^26.6.3",
     "jest-canvas-mock": "^2.5.2",
     "jest-environment-enzyme": "^7.1.2",
